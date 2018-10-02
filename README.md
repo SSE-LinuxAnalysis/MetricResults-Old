@@ -9,3 +9,7 @@ Analysis of defects reported by the Kbuild Test Robot at [kbuild-all mailinglist
 * [April 2017](Kbuild%20Test%20Robot/2017-04/2017-April.xlsx)
 * [May 2017](Kbuild%20Test%20Robot/2017-05/2017-May.xlsx)
 * [June 2017](Kbuild%20Test%20Robot/2017-06/2017-June.xlsx)
+* [August 2017](Kbuild%20Test%20Robot/2017-08/2017-August.xlsx)
+* [October 2017](Kbuild%20Test%20Robot/2017-10/2017-October.xlsx)
+* [December 2017](Kbuild%20Test%20Robot/2017-12/2017-December.xlsx)
+* [January 2018](Kbuild%20Test%20Robot/2018-01/2018-January.xlsx)
