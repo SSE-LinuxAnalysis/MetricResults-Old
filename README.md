@@ -23,3 +23,8 @@ Analysis of defects reported by the Kbuild Test Robot at [kbuild-all mailinglist
 * [May 2018](Kbuild%20Test%20Robot/2018-05/2018-May.xlsx)
 * [July 2018](Kbuild%20Test%20Robot/2018-07/2018-July.xlsx)
 
+Results are categorized as follows:
+* SPARSE: Result of Sparse (static analysis tool for Linux)
+* NOTE: Compilation note, maybe related to a compilation error (a hint)
+* WARNING: Compilation warning, e.g., unused variable
+* ERROR: Compilation error
