@@ -21,10 +21,12 @@ Analysis of defects reported by the Kbuild Test Robot at [kbuild-all mailinglist
 * [March 2018](Kbuild%20Test%20Robot/2018-03/2018-March.xlsx)
 * [April 2018](Kbuild%20Test%20Robot/2018-04/2018-April.xlsx)
 * [May 2018](Kbuild%20Test%20Robot/2018-05/2018-May.xlsx)
+* [June 2018](Kbuild%20Test%20Robot/2018-06/2018-June.xlsx)
 * [July 2018](Kbuild%20Test%20Robot/2018-07/2018-July.xlsx)
+* [August 2018](Kbuild%20Test%20Robot/2018-08/2018-August.xlsx)
 
 Results are categorized as follows:
-* SPARSE: Result of Sparse (static analysis tool for Linux)
-* NOTE: Compilation note, maybe related to a compilation error (a hint)
-* WARNING: Compilation warning, e.g., unused variable
-* ERROR: Compilation error
+* **SPARSE:** Result of Sparse (static analysis tool for Linux)
+* **NOTE:** Compilation note, maybe related to a compilation error (a hint)
+* **WARNING:** Compilation warning, e.g., unused variable
+* **ERROR:** Compilation error
