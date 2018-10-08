@@ -3,6 +3,17 @@ Metric Results of [MetricHaven](https://github.com/KernelHaven/MetricHaven).
 
 ## Kbuild Test Robot Results ##
 Analysis of defects reported by the Kbuild Test Robot at [kbuild-all mailinglist](https://lists.01.org/pipermail/kbuild-all/).
+* [September 2015](Kbuild%20Test%20Robot/2015-09/2015-September.xlsx)
+* [November 2015](Kbuild%20Test%20Robot/2015-11/2015-November.xlsx)
+* [January 2016](Kbuild%20Test%20Robot/2016-01/2016-January.xlsx)
+* [February 2016](Kbuild%20Test%20Robot/2016-02/2016-February.xlsx)
+* [March 2016](Kbuild%20Test%20Robot/2016-03/2016-March.xlsx)
+* [April 2016](Kbuild%20Test%20Robot/2016-04/2016-April.xlsx)
+* [May 2016](Kbuild%20Test%20Robot/2016-05/2016-May.xlsx)
+* [June 2016](Kbuild%20Test%20Robot/2016-06/2016-June.xlsx)
+* [September 2016](Kbuild%20Test%20Robot/2016-09/2016-September.xlsx)
+* [October 2016](Kbuild%20Test%20Robot/2016-10/2016-October.xlsx)
+* [November 2016](Kbuild%20Test%20Robot/2016-11/2016-November.xlsx)
 * [December 2016](Kbuild%20Test%20Robot/2016-12/2016-December.xlsx)
 * [January 2017](Kbuild%20Test%20Robot/2017-01/2017-January.xlsx)
 * [February 2017](Kbuild%20Test%20Robot/2017-02/2017-February.xlsx)
@@ -24,6 +35,7 @@ Analysis of defects reported by the Kbuild Test Robot at [kbuild-all mailinglist
 * [June 2018](Kbuild%20Test%20Robot/2018-06/2018-June.xlsx)
 * [July 2018](Kbuild%20Test%20Robot/2018-07/2018-July.xlsx)
 * [August 2018](Kbuild%20Test%20Robot/2018-08/2018-August.xlsx)
+* [September 2018](Kbuild%20Test%20Robot/2018-09/2018-September.xlsx)
 
 Results are categorized as follows:
 * **SPARSE:** Result of Sparse (static analysis tool for Linux)
