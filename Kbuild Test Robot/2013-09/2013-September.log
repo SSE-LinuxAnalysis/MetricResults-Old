@@ -1,882 +1,897 @@
 Mailinglist items: ../kbuild-all/2013-September.txt.gz
-Processing 1 of 210 at 12:43:04 (09.10.18)
-  Restoring commit took 406463ms
+Processing 1 of 210 at 12:05:24 (16.10.18)
+  Restoring commit took 535809ms
     1 files produced, start merging them
-    Read file: 1 (618110 bytes)
-  Metric execution (+ merging 1 results) took 00:04:07
-  Running metrics took 247644ms
-Handling (+writing) KH output took 655182ms
-Processing 2 of 210 at 12:54:00 (09.10.18)
-  Restoring commit took 97698ms
-Handling (+writing) KH output took 98013ms
-Processing 3 of 210 at 12:55:38 (09.10.18)
-  Restoring commit took 51768ms
+    Read file: 1 (651806 bytes)
+  Metric execution (+ merging 1 results) took 00:04:27
+  Running metrics took 267263ms
+Handling (+writing) KH output took 803938ms
+Processing 2 of 210 at 12:18:48 (16.10.18)
+  Restoring commit took 69982ms
+Handling (+writing) KH output took 70151ms
+Processing 3 of 210 at 12:19:58 (16.10.18)
+  Restoring commit took 50597ms
     1 files produced, start merging them
-    Read file: 1 (625699 bytes)
-  Metric execution (+ merging 1 results) took 00:02:53
-  Running metrics took 173826ms
-Handling (+writing) KH output took 225829ms
-Processing 4 of 210 at 12:59:23 (09.10.18)
-Handling (+writing) KH output took 726ms
-Processing 5 of 210 at 12:59:24 (09.10.18)
-Handling (+writing) KH output took 686ms
-Processing 6 of 210 at 12:59:25 (09.10.18)
-Handling (+writing) KH output took 40791ms
-Processing 7 of 210 at 13:00:06 (09.10.18)
-  Restoring commit took 30118ms
-    1 files produced, start merging them
-    Read file: 1 (0 bytes)
-  Metric execution (+ merging 0 results) took 00:03:01
-  Running metrics took 181638ms
-Handling (+writing) KH output took 211906ms
-Processing 8 of 210 at 13:03:38 (09.10.18)
-  Restoring commit took 32526ms
-Handling (+writing) KH output took 32551ms
-Processing 9 of 210 at 13:04:10 (09.10.18)
-  Restoring commit took 28148ms
+    Read file: 1 (659395 bytes)
+  Metric execution (+ merging 1 results) took 00:03:38
+  Running metrics took 218456ms
+Handling (+writing) KH output took 269316ms
+Processing 4 of 210 at 12:24:28 (16.10.18)
+Handling (+writing) KH output took 1054ms
+Processing 5 of 210 at 12:24:29 (16.10.18)
+Handling (+writing) KH output took 917ms
+Processing 6 of 210 at 12:24:29 (16.10.18)
+Handling (+writing) KH output took 252983ms
+Processing 7 of 210 at 12:28:42 (16.10.18)
+  Restoring commit took 36167ms
     1 files produced, start merging them
     Read file: 1 (0 bytes)
-  Metric execution (+ merging 0 results) took 00:03:18
-  Running metrics took 198576ms
-Handling (+writing) KH output took 226854ms
-Processing 10 of 210 at 13:07:57 (09.10.18)
-  Restoring commit took 30511ms
-    1 files produced, start merging them
-    Read file: 1 (1341787 bytes)
-  Metric execution (+ merging 20 results) took 00:03:48
-  Running metrics took 228415ms
-Handling (+writing) KH output took 259341ms
-Processing 11 of 210 at 13:12:16 (09.10.18)
-  Restoring commit took 4723ms
-    1 files produced, start merging them
-    Read file: 1 (666815 bytes)
-  Metric execution (+ merging 2 results) took 00:03:37
-  Running metrics took 217976ms
-Handling (+writing) KH output took 222949ms
-Processing 12 of 210 at 13:15:59 (09.10.18)
-Handling (+writing) KH output took 18910ms
-Processing 13 of 210 at 13:16:18 (09.10.18)
-Handling (+writing) KH output took 15504ms
-Processing 14 of 210 at 13:16:34 (09.10.18)
-Handling (+writing) KH output took 43042ms
-Processing 15 of 210 at 13:17:17 (09.10.18)
-Handling (+writing) KH output took 12856ms
-Processing 16 of 210 at 13:17:30 (09.10.18)
-Handling (+writing) KH output took 4441038ms
-Processing 17 of 210 at 14:31:31 (09.10.18)
-  Restoring commit took 28256ms
-    1 files produced, start merging them
-    Read file: 1 (626393 bytes)
-  Metric execution (+ merging 1 results) took 00:02:44
-  Running metrics took 164435ms
-Handling (+writing) KH output took 193370ms
-Processing 18 of 210 at 14:34:44 (09.10.18)
-  Restoring commit took 329201ms
-    1 files produced, start merging them
-    Read file: 1 (771380 bytes)
-  Metric execution (+ merging 5 results) took 00:02:39
-  Running metrics took 159790ms
-Handling (+writing) KH output took 489205ms
-Processing 19 of 210 at 14:42:53 (09.10.18)
-  Restoring commit took 3299ms
-    1 files produced, start merging them
-    Read file: 1 (618611 bytes)
-  Metric execution (+ merging 1 results) took 00:02:31
-  Running metrics took 151948ms
-Handling (+writing) KH output took 155282ms
-Processing 20 of 210 at 14:45:28 (09.10.18)
-  Restoring commit took 28350ms
-    1 files produced, start merging them
-    Read file: 1 (625536 bytes)
-  Metric execution (+ merging 1 results) took 00:02:42
-  Running metrics took 162701ms
-Handling (+writing) KH output took 191122ms
-Processing 21 of 210 at 14:48:40 (09.10.18)
-  Restoring commit took 298ms
-    1 files produced, start merging them
-    Read file: 1 (771785 bytes)
-  Metric execution (+ merging 5 results) took 00:02:43
-  Running metrics took 163150ms
-Handling (+writing) KH output took 163568ms
-Processing 22 of 210 at 14:51:23 (09.10.18)
-  Restoring commit took 27025ms
-    1 files produced, start merging them
-    Read file: 1 (663306 bytes)
-  Metric execution (+ merging 2 results) took 00:02:43
-  Running metrics took 163772ms
-Handling (+writing) KH output took 190897ms
-Processing 23 of 210 at 14:54:34 (09.10.18)
-  Restoring commit took 25790ms
-    1 files produced, start merging them
-    Read file: 1 (663357 bytes)
-  Metric execution (+ merging 2 results) took 00:02:35
-  Running metrics took 155015ms
-Handling (+writing) KH output took 180986ms
-Processing 24 of 210 at 14:57:35 (09.10.18)
-  Restoring commit took 25446ms
-    1 files produced, start merging them
-    Read file: 1 (663728 bytes)
-  Metric execution (+ merging 2 results) took 00:02:36
-  Running metrics took 156043ms
-Handling (+writing) KH output took 181579ms
-Processing 25 of 210 at 15:00:37 (09.10.18)
-  Restoring commit took 354ms
-    1 files produced, start merging them
-    Read file: 1 (625532 bytes)
-  Metric execution (+ merging 1 results) took 00:02:34
-  Running metrics took 154818ms
-Handling (+writing) KH output took 155249ms
-Processing 26 of 210 at 15:03:12 (09.10.18)
-  Restoring commit took 26648ms
-    1 files produced, start merging them
-    Read file: 1 (625545 bytes)
-  Metric execution (+ merging 1 results) took 00:02:42
-  Running metrics took 162967ms
-Handling (+writing) KH output took 189662ms
-Processing 27 of 210 at 15:06:22 (09.10.18)
-  Restoring commit took 24820ms
-    1 files produced, start merging them
-    Read file: 1 (625101 bytes)
-  Metric execution (+ merging 1 results) took 00:02:26
-  Running metrics took 146026ms
-Handling (+writing) KH output took 170924ms
-Processing 28 of 210 at 15:09:12 (09.10.18)
-  Restoring commit took 24893ms
-    1 files produced, start merging them
-    Read file: 1 (625102 bytes)
-  Metric execution (+ merging 1 results) took 00:02:26
-  Running metrics took 146607ms
-Handling (+writing) KH output took 171581ms
-Processing 29 of 210 at 15:12:04 (09.10.18)
-  Restoring commit took 3166ms
+  Metric execution (+ merging 0 results) took 00:03:44
+  Running metrics took 224404ms
+Handling (+writing) KH output took 260722ms
+Processing 8 of 210 at 12:33:03 (16.10.18)
+  Restoring commit took 38522ms
+Handling (+writing) KH output took 38552ms
+Processing 9 of 210 at 12:33:42 (16.10.18)
+  Restoring commit took 36213ms
     1 files produced, start merging them
     Read file: 1 (0 bytes)
-  Metric execution (+ merging 0 results) took 00:02:41
-  Running metrics took 161605ms
-Handling (+writing) KH output took 164811ms
-Processing 30 of 210 at 15:14:49 (09.10.18)
-  Restoring commit took 3462ms
+  Metric execution (+ merging 0 results) took 00:03:49
+  Running metrics took 229403ms
+Handling (+writing) KH output took 265761ms
+Processing 10 of 210 at 12:38:07 (16.10.18)
+  Restoring commit took 34194ms
     1 files produced, start merging them
-    Read file: 1 (620614 bytes)
-  Metric execution (+ merging 1 results) took 00:02:39
-  Running metrics took 159463ms
-Handling (+writing) KH output took 163002ms
-Processing 31 of 210 at 15:17:32 (09.10.18)
-Handling (+writing) KH output took 28841ms
-Processing 32 of 210 at 15:18:01 (09.10.18)
-Handling (+writing) KH output took 14040ms
-Processing 33 of 210 at 15:18:15 (09.10.18)
-Handling (+writing) KH output took 11608ms
-Processing 34 of 210 at 15:18:26 (09.10.18)
-Handling (+writing) KH output took 11620ms
-Processing 35 of 210 at 15:18:38 (09.10.18)
-Handling (+writing) KH output took 11583ms
-Processing 36 of 210 at 15:18:50 (09.10.18)
-Handling (+writing) KH output took 10935ms
-Processing 37 of 210 at 15:19:00 (09.10.18)
-Handling (+writing) KH output took 10452ms
-Processing 38 of 210 at 15:19:11 (09.10.18)
-Handling (+writing) KH output took 11036ms
-Processing 39 of 210 at 15:19:22 (09.10.18)
-Handling (+writing) KH output took 16292ms
-Processing 40 of 210 at 15:19:38 (09.10.18)
-Handling (+writing) KH output took 16609ms
-Processing 41 of 210 at 15:19:55 (09.10.18)
-Handling (+writing) KH output took 17331ms
-Processing 42 of 210 at 15:20:12 (09.10.18)
-Handling (+writing) KH output took 13365ms
-Processing 43 of 210 at 15:20:26 (09.10.18)
-Handling (+writing) KH output took 15285ms
-Processing 44 of 210 at 15:20:41 (09.10.18)
-Handling (+writing) KH output took 13919ms
-Processing 45 of 210 at 15:20:55 (09.10.18)
-Handling (+writing) KH output took 13440ms
-Processing 46 of 210 at 15:21:08 (09.10.18)
-Handling (+writing) KH output took 11496ms
-Processing 47 of 210 at 15:21:20 (09.10.18)
-Handling (+writing) KH output took 11521ms
-Processing 48 of 210 at 15:21:31 (09.10.18)
-Handling (+writing) KH output took 11627ms
-Processing 49 of 210 at 15:21:43 (09.10.18)
-Handling (+writing) KH output took 11530ms
-Processing 50 of 210 at 15:21:54 (09.10.18)
-  Restoring commit took 26238ms
+    Read file: 1 (1375483 bytes)
+  Metric execution (+ merging 20 results) took 00:03:33
+  Running metrics took 213449ms
+Handling (+writing) KH output took 247984ms
+Processing 11 of 210 at 12:42:15 (16.10.18)
+  Restoring commit took 7248ms
     1 files produced, start merging them
-    Read file: 1 (631578 bytes)
-  Metric execution (+ merging 1 results) took 00:02:36
-  Running metrics took 156916ms
-Handling (+writing) KH output took 183289ms
-Processing 51 of 210 at 15:24:58 (09.10.18)
-  Restoring commit took 25546ms
+    Read file: 1 (700511 bytes)
+  Metric execution (+ merging 2 results) took 00:03:39
+  Running metrics took 219335ms
+Handling (+writing) KH output took 226884ms
+Processing 12 of 210 at 12:46:02 (16.10.18)
+Handling (+writing) KH output took 17517ms
+Processing 13 of 210 at 12:46:20 (16.10.18)
+Handling (+writing) KH output took 14571ms
+Processing 14 of 210 at 12:46:34 (16.10.18)
+Handling (+writing) KH output took 43696ms
+Processing 15 of 210 at 12:47:18 (16.10.18)
+Handling (+writing) KH output took 24171ms
+Processing 16 of 210 at 12:47:42 (16.10.18)
+Handling (+writing) KH output took 32477ms
+Processing 17 of 210 at 12:48:15 (16.10.18)
+  Restoring commit took 28886ms
     1 files produced, start merging them
-    Read file: 1 (0 bytes)
-  Metric execution (+ merging 0 results) took 00:02:48
-  Running metrics took 168536ms
-Handling (+writing) KH output took 194252ms
-Processing 52 of 210 at 15:28:12 (09.10.18)
-  Restoring commit took 3286ms
+    Read file: 1 (660089 bytes)
+  Metric execution (+ merging 1 results) took 00:03:36
+  Running metrics took 216356ms
+Handling (+writing) KH output took 245311ms
+Processing 18 of 210 at 12:52:20 (16.10.18)
+  Restoring commit took 28383ms
     1 files produced, start merging them
-    Read file: 1 (621053 bytes)
-  Metric execution (+ merging 1 results) took 00:03:15
-  Running metrics took 195686ms
-Handling (+writing) KH output took 199175ms
-Processing 53 of 210 at 15:31:31 (09.10.18)
-Handling (+writing) KH output took 51068ms
-Processing 54 of 210 at 15:32:22 (09.10.18)
-  Restoring commit took 36773ms
+    Read file: 1 (805076 bytes)
+  Metric execution (+ merging 5 results) took 00:03:41
+  Running metrics took 221640ms
+Handling (+writing) KH output took 250160ms
+Processing 19 of 210 at 12:56:30 (16.10.18)
+  Restoring commit took 4659ms
     1 files produced, start merging them
-    Read file: 1 (627066 bytes)
-  Metric execution (+ merging 1 results) took 00:03:11
-  Running metrics took 191829ms
-Handling (+writing) KH output took 228769ms
-Processing 55 of 210 at 15:36:11 (09.10.18)
-Handling (+writing) KH output took 14262ms
-Processing 56 of 210 at 15:36:25 (09.10.18)
-  Restoring commit took 35184ms
+    Read file: 1 (652307 bytes)
+  Metric execution (+ merging 1 results) took 00:03:29
+  Running metrics took 209184ms
+Handling (+writing) KH output took 213878ms
+Processing 20 of 210 at 13:00:04 (16.10.18)
+  Restoring commit took 37068ms
     1 files produced, start merging them
-    Read file: 1 (628201 bytes)
-  Metric execution (+ merging 1 results) took 00:03:11
-  Running metrics took 191754ms
-Handling (+writing) KH output took 227082ms
-Processing 57 of 210 at 15:40:12 (09.10.18)
-  Restoring commit took 26901ms
+    Read file: 1 (659232 bytes)
+  Metric execution (+ merging 1 results) took 00:03:36
+  Running metrics took 216369ms
+Handling (+writing) KH output took 253549ms
+Processing 21 of 210 at 13:04:18 (16.10.18)
+  Restoring commit took 410ms
     1 files produced, start merging them
-    Read file: 1 (628867 bytes)
+    Read file: 1 (805481 bytes)
+  Metric execution (+ merging 5 results) took 00:03:44
+  Running metrics took 224976ms
+Handling (+writing) KH output took 225559ms
+Processing 22 of 210 at 13:08:03 (16.10.18)
+  Restoring commit took 31042ms
+    1 files produced, start merging them
+    Read file: 1 (697002 bytes)
+  Metric execution (+ merging 2 results) took 00:03:48
+  Running metrics took 228221ms
+Handling (+writing) KH output took 259316ms
+Processing 23 of 210 at 13:12:23 (16.10.18)
+  Restoring commit took 31369ms
+    1 files produced, start merging them
+    Read file: 1 (697053 bytes)
+  Metric execution (+ merging 2 results) took 00:03:48
+  Running metrics took 228398ms
+Handling (+writing) KH output took 259863ms
+Processing 24 of 210 at 13:16:42 (16.10.18)
+  Restoring commit took 33198ms
+    1 files produced, start merging them
+    Read file: 1 (697424 bytes)
+  Metric execution (+ merging 2 results) took 00:03:34
+  Running metrics took 214778ms
+Handling (+writing) KH output took 248073ms
+Processing 25 of 210 at 13:20:51 (16.10.18)
+  Restoring commit took 403ms
+    1 files produced, start merging them
+    Read file: 1 (659228 bytes)
+  Metric execution (+ merging 1 results) took 00:03:29
+  Running metrics took 209501ms
+Handling (+writing) KH output took 209985ms
+Processing 26 of 210 at 13:24:20 (16.10.18)
+  Restoring commit took 32549ms
+    1 files produced, start merging them
+    Read file: 1 (659241 bytes)
+  Metric execution (+ merging 1 results) took 00:03:54
+  Running metrics took 234671ms
+Handling (+writing) KH output took 267273ms
+Processing 27 of 210 at 13:28:48 (16.10.18)
+  Restoring commit took 33995ms
+    1 files produced, start merging them
+    Read file: 1 (658797 bytes)
+  Metric execution (+ merging 1 results) took 00:04:01
+  Running metrics took 241857ms
+Handling (+writing) KH output took 275936ms
+Processing 28 of 210 at 13:33:24 (16.10.18)
+  Restoring commit took 34459ms
+    1 files produced, start merging them
+    Read file: 1 (658798 bytes)
   Metric execution (+ merging 1 results) took 00:03:28
-  Running metrics took 208310ms
-Handling (+writing) KH output took 235394ms
-Processing 58 of 210 at 15:44:08 (09.10.18)
-  Restoring commit took 502ms
-    1 files produced, start merging them
-    Read file: 1 (626925 bytes)
-  Metric execution (+ merging 1 results) took 00:03:12
-  Running metrics took 192901ms
-Handling (+writing) KH output took 193473ms
-Processing 59 of 210 at 15:47:21 (09.10.18)
-  Restoring commit took 276ms
-    1 files produced, start merging them
-    Read file: 1 (628867 bytes)
-  Metric execution (+ merging 1 results) took 00:03:02
-  Running metrics took 182131ms
-Handling (+writing) KH output took 182466ms
-Processing 60 of 210 at 15:50:24 (09.10.18)
-Handling (+writing) KH output took 12032ms
-Processing 61 of 210 at 15:50:36 (09.10.18)
-Handling (+writing) KH output took 89585ms
-Processing 62 of 210 at 15:52:05 (09.10.18)
-Handling (+writing) KH output took 711ms
-Processing 63 of 210 at 15:52:06 (09.10.18)
-  Restoring commit took 26010ms
-    1 files produced, start merging them
-    Read file: 1 (625545 bytes)
-  Metric execution (+ merging 1 results) took 00:03:00
-  Running metrics took 180512ms
-Handling (+writing) KH output took 206567ms
-Processing 64 of 210 at 15:55:33 (09.10.18)
-  Restoring commit took 27586ms
+  Running metrics took 208379ms
+Handling (+writing) KH output took 242940ms
+Processing 29 of 210 at 13:37:27 (16.10.18)
+  Restoring commit took 4127ms
     1 files produced, start merging them
     Read file: 1 (0 bytes)
-  Metric execution (+ merging 0 results) took 00:02:49
-  Running metrics took 169472ms
-Handling (+writing) KH output took 197122ms
-Processing 65 of 210 at 15:58:50 (09.10.18)
-Handling (+writing) KH output took 674ms
-Processing 66 of 210 at 15:58:50 (09.10.18)
-Handling (+writing) KH output took 14037ms
-Processing 67 of 210 at 15:59:04 (09.10.18)
-Handling (+writing) KH output took 15954ms
-Processing 68 of 210 at 15:59:20 (09.10.18)
-  Restoring commit took 32537ms
+  Metric execution (+ merging 0 results) took 00:03:49
+  Running metrics took 229050ms
+Handling (+writing) KH output took 233227ms
+Processing 30 of 210 at 13:41:20 (16.10.18)
+  Restoring commit took 4659ms
     1 files produced, start merging them
-    Read file: 1 (1584963 bytes)
-  Metric execution (+ merging 26 results) took 00:03:19
-  Running metrics took 199933ms
-Handling (+writing) KH output took 233152ms
-Processing 69 of 210 at 16:03:13 (09.10.18)
-Handling (+writing) KH output took 14042ms
-Processing 70 of 210 at 16:03:28 (09.10.18)
-Handling (+writing) KH output took 18308ms
-Processing 71 of 210 at 16:03:46 (09.10.18)
-Handling (+writing) KH output took 1242ms
-Processing 72 of 210 at 16:03:47 (09.10.18)
-Handling (+writing) KH output took 915ms
-Processing 73 of 210 at 16:03:48 (09.10.18)
-Handling (+writing) KH output took 977ms
-Processing 74 of 210 at 16:03:49 (09.10.18)
-Handling (+writing) KH output took 12102ms
-Processing 75 of 210 at 16:04:01 (09.10.18)
-  Restoring commit took 33626ms
+    Read file: 1 (654310 bytes)
+  Metric execution (+ merging 1 results) took 00:03:41
+  Running metrics took 221150ms
+Handling (+writing) KH output took 225917ms
+Processing 31 of 210 at 13:45:06 (16.10.18)
+Handling (+writing) KH output took 19306ms
+Processing 32 of 210 at 13:45:25 (16.10.18)
+Handling (+writing) KH output took 19328ms
+Processing 33 of 210 at 13:45:44 (16.10.18)
+Handling (+writing) KH output took 14585ms
+Processing 34 of 210 at 13:45:59 (16.10.18)
+Handling (+writing) KH output took 13648ms
+Processing 35 of 210 at 13:46:13 (16.10.18)
+Handling (+writing) KH output took 13659ms
+Processing 36 of 210 at 13:46:26 (16.10.18)
+Handling (+writing) KH output took 14748ms
+Processing 37 of 210 at 13:46:41 (16.10.18)
+Handling (+writing) KH output took 14870ms
+Processing 38 of 210 at 13:46:56 (16.10.18)
+Handling (+writing) KH output took 16329ms
+Processing 39 of 210 at 13:47:12 (16.10.18)
+Handling (+writing) KH output took 20926ms
+Processing 40 of 210 at 13:47:33 (16.10.18)
+Handling (+writing) KH output took 21024ms
+Processing 41 of 210 at 13:47:54 (16.10.18)
+Handling (+writing) KH output took 21371ms
+Processing 42 of 210 at 13:48:16 (16.10.18)
+Handling (+writing) KH output took 15194ms
+Processing 43 of 210 at 13:48:31 (16.10.18)
+Handling (+writing) KH output took 18078ms
+Processing 44 of 210 at 13:48:49 (16.10.18)
+Handling (+writing) KH output took 16408ms
+Processing 45 of 210 at 13:49:05 (16.10.18)
+Handling (+writing) KH output took 20633ms
+Processing 46 of 210 at 13:49:26 (16.10.18)
+Handling (+writing) KH output took 17069ms
+Processing 47 of 210 at 13:49:43 (16.10.18)
+Handling (+writing) KH output took 13197ms
+Processing 48 of 210 at 13:49:56 (16.10.18)
+Handling (+writing) KH output took 12908ms
+Processing 49 of 210 at 13:50:09 (16.10.18)
+Handling (+writing) KH output took 13036ms
+Processing 50 of 210 at 13:50:22 (16.10.18)
+  Restoring commit took 35444ms
     1 files produced, start merging them
-    Read file: 1 (673782 bytes)
-  Metric execution (+ merging 2 results) took 00:03:05
-  Running metrics took 185511ms
-Handling (+writing) KH output took 219218ms
-Processing 76 of 210 at 16:07:40 (09.10.18)
-Handling (+writing) KH output took 824ms
-Processing 77 of 210 at 16:07:41 (09.10.18)
-Handling (+writing) KH output took 819ms
-Processing 78 of 210 at 16:07:42 (09.10.18)
-  Restoring commit took 28804ms
-    1 files produced, start merging them
-    Read file: 1 (770718 bytes)
-  Metric execution (+ merging 5 results) took 00:03:23
-  Running metrics took 203596ms
-Handling (+writing) KH output took 232751ms
-Processing 79 of 210 at 16:11:35 (09.10.18)
-  Restoring commit took 31410ms
-    1 files produced, start merging them
-    Read file: 1 (619674 bytes)
-  Metric execution (+ merging 1 results) took 00:03:19
-  Running metrics took 199206ms
-Handling (+writing) KH output took 230827ms
-Processing 80 of 210 at 16:15:26 (09.10.18)
-  Restoring commit took 29897ms
-    1 files produced, start merging them
-    Read file: 1 (777246 bytes)
-  Metric execution (+ merging 5 results) took 00:03:01
-  Running metrics took 181834ms
-Handling (+writing) KH output took 212070ms
-Processing 81 of 210 at 16:18:58 (09.10.18)
-  Restoring commit took 371ms
-    1 files produced, start merging them
-    Read file: 1 (1053959 bytes)
-  Metric execution (+ merging 13 results) took 00:03:12
-  Running metrics took 192202ms
-Handling (+writing) KH output took 193295ms
-Processing 82 of 210 at 16:22:11 (09.10.18)
-  Restoring commit took 30214ms
-    1 files produced, start merging them
-    Read file: 1 (638887 bytes)
-  Metric execution (+ merging 1 results) took 00:03:05
-  Running metrics took 185994ms
-Handling (+writing) KH output took 216318ms
-Processing 83 of 210 at 16:25:47 (09.10.18)
-  Restoring commit took 27528ms
-    1 files produced, start merging them
-    Read file: 1 (624973 bytes)
-  Metric execution (+ merging 1 results) took 00:02:41
-  Running metrics took 161624ms
-Handling (+writing) KH output took 189442ms
-Processing 84 of 210 at 16:28:57 (09.10.18)
-  Restoring commit took 28699ms
-    1 files produced, start merging them
-    Read file: 1 (621735 bytes)
-  Metric execution (+ merging 1 results) took 00:02:58
-  Running metrics took 178122ms
-Handling (+writing) KH output took 206932ms
-Processing 85 of 210 at 16:32:24 (09.10.18)
-Handling (+writing) KH output took 83898ms
-Processing 86 of 210 at 16:33:47 (09.10.18)
-Handling (+writing) KH output took 16166ms
-Processing 87 of 210 at 16:34:04 (09.10.18)
-  Restoring commit took 37415ms
-Handling (+writing) KH output took 37441ms
-Processing 88 of 210 at 16:34:41 (09.10.18)
-  Restoring commit took 150374ms
+    Read file: 1 (665274 bytes)
+  Metric execution (+ merging 1 results) took 00:03:48
+  Running metrics took 228336ms
+Handling (+writing) KH output took 263972ms
+Processing 51 of 210 at 13:54:46 (16.10.18)
+  Restoring commit took 33704ms
     1 files produced, start merging them
     Read file: 1 (0 bytes)
-  Metric execution (+ merging 0 results) took 00:03:32
-  Running metrics took 212219ms
-Handling (+writing) KH output took 362657ms
-Processing 89 of 210 at 16:40:44 (09.10.18)
-  Restoring commit took 32536ms
+  Metric execution (+ merging 0 results) took 00:03:45
+  Running metrics took 225546ms
+Handling (+writing) KH output took 259411ms
+Processing 52 of 210 at 13:59:06 (16.10.18)
+  Restoring commit took 4131ms
     1 files produced, start merging them
-    Read file: 1 (624912 bytes)
-  Metric execution (+ merging 1 results) took 00:03:25
-  Running metrics took 205770ms
-Handling (+writing) KH output took 238409ms
-Processing 90 of 210 at 16:44:42 (09.10.18)
-  Restoring commit took 35989ms
+    Read file: 1 (654749 bytes)
+  Metric execution (+ merging 1 results) took 00:03:27
+  Running metrics took 207849ms
+Handling (+writing) KH output took 212186ms
+Processing 53 of 210 at 14:02:38 (16.10.18)
+Handling (+writing) KH output took 22797ms
+Processing 54 of 210 at 14:03:00 (16.10.18)
+  Restoring commit took 30494ms
     1 files produced, start merging them
-    Read file: 1 (0 bytes)
-  Metric execution (+ merging 0 results) took 00:03:17
-  Running metrics took 197289ms
-Handling (+writing) KH output took 233422ms
-Processing 91 of 210 at 16:48:36 (09.10.18)
-Handling (+writing) KH output took 13405ms
-Processing 92 of 210 at 16:48:49 (09.10.18)
-Handling (+writing) KH output took 12962ms
-Processing 93 of 210 at 16:49:02 (09.10.18)
-Handling (+writing) KH output took 105495ms
-Processing 94 of 210 at 16:50:47 (09.10.18)
-Handling (+writing) KH output took 10957ms
-Processing 95 of 210 at 16:50:58 (09.10.18)
-  Restoring commit took 25492ms
+    Read file: 1 (660762 bytes)
+  Metric execution (+ merging 1 results) took 00:05:45
+  Running metrics took 345719ms
+Handling (+writing) KH output took 376380ms
+Processing 55 of 210 at 14:09:17 (16.10.18)
+Handling (+writing) KH output took 16661ms
+Processing 56 of 210 at 14:09:34 (16.10.18)
+  Restoring commit took 31147ms
     1 files produced, start merging them
-    Read file: 1 (624644 bytes)
-  Metric execution (+ merging 1 results) took 00:03:05
-  Running metrics took 185768ms
-Handling (+writing) KH output took 211328ms
-Processing 96 of 210 at 16:54:30 (09.10.18)
-  Restoring commit took 27738ms
-Handling (+writing) KH output took 27866ms
-Processing 97 of 210 at 16:54:58 (09.10.18)
-  Restoring commit took 27415ms
-    1 files produced, start merging them
-    Read file: 1 (627491 bytes)
-  Metric execution (+ merging 1 results) took 00:02:50
-  Running metrics took 170929ms
-Handling (+writing) KH output took 198408ms
-Processing 98 of 210 at 16:58:16 (09.10.18)
-  Restoring commit took 28397ms
-    1 files produced, start merging them
-    Read file: 1 (624152 bytes)
-  Metric execution (+ merging 1 results) took 00:02:53
-  Running metrics took 173933ms
-Handling (+writing) KH output took 202511ms
-Processing 99 of 210 at 17:01:38 (09.10.18)
-  Restoring commit took 28729ms
-    1 files produced, start merging them
-    Read file: 1 (664710 bytes)
-  Metric execution (+ merging 2 results) took 00:02:56
-  Running metrics took 176339ms
-Handling (+writing) KH output took 205269ms
-Processing 100 of 210 at 17:05:04 (09.10.18)
-Handling (+writing) KH output took 14088ms
-Processing 101 of 210 at 17:05:18 (09.10.18)
-Handling (+writing) KH output took 11845ms
-Processing 102 of 210 at 17:05:30 (09.10.18)
-Handling (+writing) KH output took 12602ms
-Processing 103 of 210 at 17:05:42 (09.10.18)
-Handling (+writing) KH output took 12055ms
-Processing 104 of 210 at 17:05:54 (09.10.18)
-Handling (+writing) KH output took 29181ms
-Processing 105 of 210 at 17:06:24 (09.10.18)
-Handling (+writing) KH output took 11714ms
-Processing 106 of 210 at 17:06:35 (09.10.18)
-  Restoring commit took 27418ms
-    1 files produced, start merging them
-    Read file: 1 (650326 bytes)
-  Metric execution (+ merging 2 results) took 00:03:13
-  Running metrics took 193739ms
-Handling (+writing) KH output took 221211ms
-Processing 107 of 210 at 17:10:16 (09.10.18)
-Handling (+writing) KH output took 975ms
-Processing 108 of 210 at 17:10:17 (09.10.18)
-  Restoring commit took 26237ms
-    1 files produced, start merging them
-    Read file: 1 (657675 bytes)
-  Metric execution (+ merging 2 results) took 00:02:49
-  Running metrics took 169912ms
-Handling (+writing) KH output took 196189ms
-Processing 109 of 210 at 17:13:34 (09.10.18)
-  Restoring commit took 24668ms
-    1 files produced, start merging them
-    Read file: 1 (650326 bytes)
-  Metric execution (+ merging 2 results) took 00:02:58
-  Running metrics took 178251ms
-Handling (+writing) KH output took 202964ms
-Processing 110 of 210 at 17:16:57 (09.10.18)
-Handling (+writing) KH output took 11496ms
-Processing 111 of 210 at 17:17:08 (09.10.18)
-Handling (+writing) KH output took 11538ms
-Processing 112 of 210 at 17:17:20 (09.10.18)
-Handling (+writing) KH output took 11581ms
-Processing 113 of 210 at 17:17:31 (09.10.18)
-  Restoring commit took 29194ms
-    1 files produced, start merging them
-    Read file: 1 (618554 bytes)
-  Metric execution (+ merging 1 results) took 00:03:04
-  Running metrics took 184235ms
-Handling (+writing) KH output took 213476ms
-Processing 114 of 210 at 17:21:05 (09.10.18)
-Handling (+writing) KH output took 10833ms
-Processing 115 of 210 at 17:21:16 (09.10.18)
-Handling (+writing) KH output took 11023ms
-Processing 116 of 210 at 17:21:27 (09.10.18)
-Handling (+writing) KH output took 13093ms
-Processing 117 of 210 at 17:21:40 (09.10.18)
-Handling (+writing) KH output took 10881ms
-Processing 118 of 210 at 17:21:51 (09.10.18)
-Handling (+writing) KH output took 47287ms
-Processing 119 of 210 at 17:22:38 (09.10.18)
-Handling (+writing) KH output took 38463ms
-Processing 120 of 210 at 17:23:16 (09.10.18)
-Handling (+writing) KH output took 12772ms
-Processing 121 of 210 at 17:23:29 (09.10.18)
-Handling (+writing) KH output took 13292ms
-Processing 122 of 210 at 17:23:42 (09.10.18)
-Handling (+writing) KH output took 12157ms
-Processing 123 of 210 at 17:23:54 (09.10.18)
-Handling (+writing) KH output took 11614ms
-Processing 124 of 210 at 17:24:06 (09.10.18)
-Handling (+writing) KH output took 706ms
-Processing 125 of 210 at 17:24:07 (09.10.18)
-Handling (+writing) KH output took 679ms
-Processing 126 of 210 at 17:24:07 (09.10.18)
-Handling (+writing) KH output took 671ms
-Processing 127 of 210 at 17:24:08 (09.10.18)
-Handling (+writing) KH output took 673ms
-Processing 128 of 210 at 17:24:09 (09.10.18)
-Handling (+writing) KH output took 848ms
-Processing 129 of 210 at 17:24:10 (09.10.18)
-Handling (+writing) KH output took 677ms
-Processing 130 of 210 at 17:24:10 (09.10.18)
-Handling (+writing) KH output took 11647ms
-Processing 131 of 210 at 17:24:22 (09.10.18)
-Handling (+writing) KH output took 684ms
-Processing 132 of 210 at 17:24:23 (09.10.18)
-Handling (+writing) KH output took 11374ms
-Processing 133 of 210 at 17:24:34 (09.10.18)
-Handling (+writing) KH output took 11692ms
-Processing 134 of 210 at 17:24:46 (09.10.18)
-Handling (+writing) KH output took 28682ms
-Processing 135 of 210 at 17:25:14 (09.10.18)
-Handling (+writing) KH output took 837ms
-Processing 136 of 210 at 17:25:15 (09.10.18)
-  Restoring commit took 27567ms
-    1 files produced, start merging them
-    Read file: 1 (0 bytes)
-  Metric execution (+ merging 0 results) took 00:03:02
-  Running metrics took 182294ms
-Handling (+writing) KH output took 209978ms
-Processing 137 of 210 at 17:28:45 (09.10.18)
-Handling (+writing) KH output took 11477ms
-Processing 138 of 210 at 17:28:57 (09.10.18)
-Handling (+writing) KH output took 46636ms
-Processing 139 of 210 at 17:29:43 (09.10.18)
-Handling (+writing) KH output took 11791ms
-Processing 140 of 210 at 17:29:55 (09.10.18)
-  Restoring commit took 26809ms
-    1 files produced, start merging them
-    Read file: 1 (626422 bytes)
-  Metric execution (+ merging 1 results) took 00:02:58
-  Running metrics took 178437ms
-Handling (+writing) KH output took 205317ms
-Processing 141 of 210 at 17:33:20 (09.10.18)
-Handling (+writing) KH output took 994ms
-Processing 142 of 210 at 17:33:21 (09.10.18)
-Handling (+writing) KH output took 741ms
-Processing 143 of 210 at 17:33:22 (09.10.18)
-  Restoring commit took 28350ms
-    1 files produced, start merging them
-    Read file: 1 (657562 bytes)
-  Metric execution (+ merging 2 results) took 00:02:56
-  Running metrics took 176685ms
-Handling (+writing) KH output took 205112ms
-Processing 144 of 210 at 17:36:47 (09.10.18)
-  Restoring commit took 768ms
-    1 files produced, start merging them
-    Read file: 1 (625265 bytes)
+    Read file: 1 (661897 bytes)
   Metric execution (+ merging 1 results) took 00:02:57
-  Running metrics took 177745ms
-Handling (+writing) KH output took 178568ms
-Processing 145 of 210 at 17:39:46 (09.10.18)
-  Restoring commit took 28646ms
+  Running metrics took 177654ms
+Handling (+writing) KH output took 208942ms
+Processing 57 of 210 at 14:13:02 (16.10.18)
+  Restoring commit took 30602ms
+    1 files produced, start merging them
+    Read file: 1 (662563 bytes)
+  Metric execution (+ merging 1 results) took 00:03:38
+  Running metrics took 218074ms
+Handling (+writing) KH output took 248890ms
+Processing 58 of 210 at 14:17:11 (16.10.18)
+  Restoring commit took 323ms
+    1 files produced, start merging them
+    Read file: 1 (660621 bytes)
+  Metric execution (+ merging 1 results) took 00:03:33
+  Running metrics took 213809ms
+Handling (+writing) KH output took 214227ms
+Processing 59 of 210 at 14:20:46 (16.10.18)
+  Restoring commit took 319ms
+    1 files produced, start merging them
+    Read file: 1 (662563 bytes)
+  Metric execution (+ merging 1 results) took 00:03:28
+  Running metrics took 208294ms
+Handling (+writing) KH output took 208677ms
+Processing 60 of 210 at 14:24:14 (16.10.18)
+Handling (+writing) KH output took 13814ms
+Processing 61 of 210 at 14:24:28 (16.10.18)
+Handling (+writing) KH output took 15653ms
+Processing 62 of 210 at 14:24:44 (16.10.18)
+Handling (+writing) KH output took 1025ms
+Processing 63 of 210 at 14:24:45 (16.10.18)
+  Restoring commit took 36568ms
+    1 files produced, start merging them
+    Read file: 1 (659241 bytes)
+  Metric execution (+ merging 1 results) took 00:03:20
+  Running metrics took 200362ms
+Handling (+writing) KH output took 236994ms
+Processing 64 of 210 at 14:28:42 (16.10.18)
+  Restoring commit took 31198ms
     1 files produced, start merging them
     Read file: 1 (0 bytes)
-  Metric execution (+ merging 0 results) took 00:03:05
-  Running metrics took 185250ms
-Handling (+writing) KH output took 213941ms
-Processing 146 of 210 at 17:43:20 (09.10.18)
-Handling (+writing) KH output took 10829ms
-Processing 147 of 210 at 17:43:31 (09.10.18)
-Handling (+writing) KH output took 11418ms
-Processing 148 of 210 at 17:43:42 (09.10.18)
-Handling (+writing) KH output took 12335ms
-Processing 149 of 210 at 17:43:54 (09.10.18)
-Handling (+writing) KH output took 47187ms
-Processing 150 of 210 at 17:44:42 (09.10.18)
-Handling (+writing) KH output took 21122ms
-Processing 151 of 210 at 17:45:03 (09.10.18)
-Handling (+writing) KH output took 11171ms
-Processing 152 of 210 at 17:45:14 (09.10.18)
-Handling (+writing) KH output took 10900ms
-Processing 153 of 210 at 17:45:25 (09.10.18)
-Handling (+writing) KH output took 12328ms
-Processing 154 of 210 at 17:45:37 (09.10.18)
-  Restoring commit took 27364ms
+  Metric execution (+ merging 0 results) took 00:03:23
+  Running metrics took 203144ms
+Handling (+writing) KH output took 234400ms
+Processing 65 of 210 at 14:32:36 (16.10.18)
+Handling (+writing) KH output took 768ms
+Processing 66 of 210 at 14:32:37 (16.10.18)
+Handling (+writing) KH output took 13700ms
+Processing 67 of 210 at 14:32:51 (16.10.18)
+Handling (+writing) KH output took 17948ms
+Processing 68 of 210 at 14:33:09 (16.10.18)
+  Restoring commit took 36292ms
+    1 files produced, start merging them
+    Read file: 1 (1618659 bytes)
+  Metric execution (+ merging 26 results) took 00:03:19
+  Running metrics took 199940ms
+Handling (+writing) KH output took 236939ms
+Processing 69 of 210 at 14:37:06 (16.10.18)
+Handling (+writing) KH output took 16580ms
+Processing 70 of 210 at 14:37:22 (16.10.18)
+Handling (+writing) KH output took 17139ms
+Processing 71 of 210 at 14:37:39 (16.10.18)
+Handling (+writing) KH output took 1305ms
+Processing 72 of 210 at 14:37:41 (16.10.18)
+Handling (+writing) KH output took 1118ms
+Processing 73 of 210 at 14:37:42 (16.10.18)
+Handling (+writing) KH output took 1126ms
+Processing 74 of 210 at 14:37:43 (16.10.18)
+Handling (+writing) KH output took 14012ms
+Processing 75 of 210 at 14:37:57 (16.10.18)
+  Restoring commit took 37588ms
+    1 files produced, start merging them
+    Read file: 1 (707478 bytes)
+  Metric execution (+ merging 2 results) took 00:03:22
+  Running metrics took 202746ms
+Handling (+writing) KH output took 240426ms
+Processing 76 of 210 at 14:41:57 (16.10.18)
+Handling (+writing) KH output took 1116ms
+Processing 77 of 210 at 14:41:58 (16.10.18)
+Handling (+writing) KH output took 1220ms
+Processing 78 of 210 at 14:42:00 (16.10.18)
+  Restoring commit took 38879ms
+    1 files produced, start merging them
+    Read file: 1 (804414 bytes)
+  Metric execution (+ merging 5 results) took 00:03:23
+  Running metrics took 203759ms
+Handling (+writing) KH output took 243057ms
+Processing 79 of 210 at 14:46:03 (16.10.18)
+  Restoring commit took 39635ms
+    1 files produced, start merging them
+    Read file: 1 (653370 bytes)
+  Metric execution (+ merging 1 results) took 00:03:26
+  Running metrics took 206476ms
+Handling (+writing) KH output took 246396ms
+Processing 80 of 210 at 14:50:09 (16.10.18)
+  Restoring commit took 33363ms
+    1 files produced, start merging them
+    Read file: 1 (810942 bytes)
+  Metric execution (+ merging 5 results) took 00:03:35
+  Running metrics took 215416ms
+Handling (+writing) KH output took 249189ms
+Processing 81 of 210 at 14:54:18 (16.10.18)
+  Restoring commit took 819ms
+    1 files produced, start merging them
+    Read file: 1 (1087655 bytes)
+  Metric execution (+ merging 13 results) took 00:03:50
+  Running metrics took 230252ms
+Handling (+writing) KH output took 231939ms
+Processing 82 of 210 at 14:58:10 (16.10.18)
+  Restoring commit took 35009ms
+    1 files produced, start merging them
+    Read file: 1 (672583 bytes)
+  Metric execution (+ merging 1 results) took 00:03:50
+  Running metrics took 230106ms
+Handling (+writing) KH output took 265259ms
+Processing 83 of 210 at 15:02:35 (16.10.18)
+  Restoring commit took 34551ms
+    1 files produced, start merging them
+    Read file: 1 (658669 bytes)
+  Metric execution (+ merging 1 results) took 00:03:14
+  Running metrics took 194308ms
+Handling (+writing) KH output took 229204ms
+Processing 84 of 210 at 15:06:25 (16.10.18)
+  Restoring commit took 33091ms
+    1 files produced, start merging them
+    Read file: 1 (655431 bytes)
+  Metric execution (+ merging 1 results) took 00:02:58
+  Running metrics took 178102ms
+Handling (+writing) KH output took 211308ms
+Processing 85 of 210 at 15:09:56 (16.10.18)
+Handling (+writing) KH output took 13950ms
+Processing 86 of 210 at 15:10:10 (16.10.18)
+Handling (+writing) KH output took 15332ms
+Processing 87 of 210 at 15:10:25 (16.10.18)
+  Restoring commit took 31387ms
+Handling (+writing) KH output took 31409ms
+Processing 88 of 210 at 15:10:57 (16.10.18)
+  Restoring commit took 30626ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:02:56
+  Running metrics took 176610ms
+Handling (+writing) KH output took 207304ms
+Processing 89 of 210 at 15:14:24 (16.10.18)
+  Restoring commit took 32137ms
+    1 files produced, start merging them
+    Read file: 1 (658608 bytes)
+  Metric execution (+ merging 1 results) took 00:02:58
+  Running metrics took 178781ms
+Handling (+writing) KH output took 211015ms
+Processing 90 of 210 at 15:17:55 (16.10.18)
+  Restoring commit took 31200ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:03:03
+  Running metrics took 183374ms
+Handling (+writing) KH output took 214722ms
+Processing 91 of 210 at 15:21:30 (16.10.18)
+Handling (+writing) KH output took 15208ms
+Processing 92 of 210 at 15:21:45 (16.10.18)
+Handling (+writing) KH output took 14616ms
+Processing 93 of 210 at 15:21:59 (16.10.18)
+Handling (+writing) KH output took 32341ms
+Processing 94 of 210 at 15:22:32 (16.10.18)
+Handling (+writing) KH output took 11549ms
+Processing 95 of 210 at 15:22:43 (16.10.18)
+  Restoring commit took 28298ms
+    1 files produced, start merging them
+    Read file: 1 (658340 bytes)
+  Metric execution (+ merging 1 results) took 00:03:22
+  Running metrics took 202811ms
+Handling (+writing) KH output took 231169ms
+Processing 96 of 210 at 15:26:35 (16.10.18)
+  Restoring commit took 29878ms
+Handling (+writing) KH output took 30003ms
+Processing 97 of 210 at 15:27:05 (16.10.18)
+  Restoring commit took 27708ms
+    1 files produced, start merging them
+    Read file: 1 (661187 bytes)
+  Metric execution (+ merging 1 results) took 00:03:16
+  Running metrics took 196473ms
+Handling (+writing) KH output took 224255ms
+Processing 98 of 210 at 15:30:49 (16.10.18)
+  Restoring commit took 34247ms
+    1 files produced, start merging them
+    Read file: 1 (657848 bytes)
+  Metric execution (+ merging 1 results) took 00:03:17
+  Running metrics took 197417ms
+Handling (+writing) KH output took 231875ms
+Processing 99 of 210 at 15:34:41 (16.10.18)
+  Restoring commit took 37913ms
+    1 files produced, start merging them
+    Read file: 1 (698406 bytes)
+  Metric execution (+ merging 2 results) took 00:03:26
+  Running metrics took 206605ms
+Handling (+writing) KH output took 244747ms
+Processing 100 of 210 at 15:38:45 (16.10.18)
+Handling (+writing) KH output took 19227ms
+Processing 101 of 210 at 15:39:05 (16.10.18)
+Handling (+writing) KH output took 15092ms
+Processing 102 of 210 at 15:39:20 (16.10.18)
+Handling (+writing) KH output took 14825ms
+Processing 103 of 210 at 15:39:35 (16.10.18)
+Handling (+writing) KH output took 15522ms
+Processing 104 of 210 at 15:39:50 (16.10.18)
+Handling (+writing) KH output took 35449ms
+Processing 105 of 210 at 15:40:26 (16.10.18)
+Handling (+writing) KH output took 13884ms
+Processing 106 of 210 at 15:40:39 (16.10.18)
+  Restoring commit took 31394ms
+    1 files produced, start merging them
+    Read file: 1 (684022 bytes)
+  Metric execution (+ merging 2 results) took 00:03:12
+  Running metrics took 192657ms
+Handling (+writing) KH output took 224114ms
+Processing 107 of 210 at 15:44:24 (16.10.18)
+Handling (+writing) KH output took 1149ms
+Processing 108 of 210 at 15:44:25 (16.10.18)
+  Restoring commit took 38776ms
+    1 files produced, start merging them
+    Read file: 1 (691371 bytes)
+  Metric execution (+ merging 2 results) took 00:03:42
+  Running metrics took 222409ms
+Handling (+writing) KH output took 261244ms
+Processing 109 of 210 at 15:48:46 (16.10.18)
+  Restoring commit took 39311ms
+    1 files produced, start merging them
+    Read file: 1 (684022 bytes)
+  Metric execution (+ merging 2 results) took 00:03:45
+  Running metrics took 225398ms
+Handling (+writing) KH output took 264770ms
+Processing 110 of 210 at 15:53:11 (16.10.18)
+Handling (+writing) KH output took 17169ms
+Processing 111 of 210 at 15:53:28 (16.10.18)
+Handling (+writing) KH output took 16584ms
+Processing 112 of 210 at 15:53:44 (16.10.18)
+Handling (+writing) KH output took 188703ms
+Processing 113 of 210 at 15:56:53 (16.10.18)
+  Restoring commit took 44823ms
+    1 files produced, start merging them
+    Read file: 1 (652250 bytes)
+  Metric execution (+ merging 1 results) took 00:03:55
+  Running metrics took 235020ms
+Handling (+writing) KH output took 279895ms
+Processing 114 of 210 at 16:01:33 (16.10.18)
+Handling (+writing) KH output took 16985ms
+Processing 115 of 210 at 16:01:50 (16.10.18)
+Handling (+writing) KH output took 15905ms
+Processing 116 of 210 at 16:02:06 (16.10.18)
+Handling (+writing) KH output took 17399ms
+Processing 117 of 210 at 16:02:23 (16.10.18)
+Handling (+writing) KH output took 14844ms
+Processing 118 of 210 at 16:02:38 (16.10.18)
+Handling (+writing) KH output took 14103ms
+Processing 119 of 210 at 16:02:52 (16.10.18)
+Handling (+writing) KH output took 15605ms
+Processing 120 of 210 at 16:03:08 (16.10.18)
+Handling (+writing) KH output took 14119ms
+Processing 121 of 210 at 16:03:22 (16.10.18)
+Handling (+writing) KH output took 13244ms
+Processing 122 of 210 at 16:03:35 (16.10.18)
+Handling (+writing) KH output took 13058ms
+Processing 123 of 210 at 16:03:48 (16.10.18)
+Handling (+writing) KH output took 15241ms
+Processing 124 of 210 at 16:04:04 (16.10.18)
+Handling (+writing) KH output took 1025ms
+Processing 125 of 210 at 16:04:05 (16.10.18)
+Handling (+writing) KH output took 869ms
+Processing 126 of 210 at 16:04:05 (16.10.18)
+Handling (+writing) KH output took 921ms
+Processing 127 of 210 at 16:04:06 (16.10.18)
+Handling (+writing) KH output took 932ms
+Processing 128 of 210 at 16:04:07 (16.10.18)
+Handling (+writing) KH output took 1199ms
+Processing 129 of 210 at 16:04:08 (16.10.18)
+Handling (+writing) KH output took 945ms
+Processing 130 of 210 at 16:04:09 (16.10.18)
+Handling (+writing) KH output took 15844ms
+Processing 131 of 210 at 16:04:25 (16.10.18)
+Handling (+writing) KH output took 990ms
+Processing 132 of 210 at 16:04:26 (16.10.18)
+Handling (+writing) KH output took 14127ms
+Processing 133 of 210 at 16:04:40 (16.10.18)
+Handling (+writing) KH output took 13358ms
+Processing 134 of 210 at 16:04:54 (16.10.18)
+Handling (+writing) KH output took 33918ms
+Processing 135 of 210 at 16:05:28 (16.10.18)
+Handling (+writing) KH output took 907ms
+Processing 136 of 210 at 16:05:29 (16.10.18)
+  Restoring commit took 31057ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:03:37
+  Running metrics took 217508ms
+Handling (+writing) KH output took 248719ms
+Processing 137 of 210 at 16:09:37 (16.10.18)
+Handling (+writing) KH output took 13912ms
+Processing 138 of 210 at 16:09:51 (16.10.18)
+Handling (+writing) KH output took 14435ms
+Processing 139 of 210 at 16:10:06 (16.10.18)
+Handling (+writing) KH output took 13946ms
+Processing 140 of 210 at 16:10:20 (16.10.18)
+  Restoring commit took 32699ms
+    1 files produced, start merging them
+    Read file: 1 (660118 bytes)
+  Metric execution (+ merging 1 results) took 00:03:08
+  Running metrics took 188376ms
+Handling (+writing) KH output took 221174ms
+Processing 141 of 210 at 16:14:01 (16.10.18)
+Handling (+writing) KH output took 814ms
+Processing 142 of 210 at 16:14:02 (16.10.18)
+Handling (+writing) KH output took 768ms
+Processing 143 of 210 at 16:14:02 (16.10.18)
+  Restoring commit took 31820ms
+    1 files produced, start merging them
+    Read file: 1 (691258 bytes)
+  Metric execution (+ merging 2 results) took 00:02:54
+  Running metrics took 174800ms
+Handling (+writing) KH output took 206692ms
+Processing 144 of 210 at 16:17:29 (16.10.18)
+  Restoring commit took 915ms
+    1 files produced, start merging them
+    Read file: 1 (658961 bytes)
+  Metric execution (+ merging 1 results) took 00:03:03
+  Running metrics took 183265ms
+Handling (+writing) KH output took 184241ms
+Processing 145 of 210 at 16:20:33 (16.10.18)
+  Restoring commit took 29923ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:03:00
+  Running metrics took 180311ms
+Handling (+writing) KH output took 210287ms
+Processing 146 of 210 at 16:24:04 (16.10.18)
+Handling (+writing) KH output took 10788ms
+Processing 147 of 210 at 16:24:14 (16.10.18)
+Handling (+writing) KH output took 55090ms
+Processing 148 of 210 at 16:25:09 (16.10.18)
+Handling (+writing) KH output took 24201ms
+Processing 149 of 210 at 16:25:34 (16.10.18)
+Handling (+writing) KH output took 14409ms
+Processing 150 of 210 at 16:25:48 (16.10.18)
+Handling (+writing) KH output took 16775ms
+Processing 151 of 210 at 16:26:05 (16.10.18)
+Handling (+writing) KH output took 13979ms
+Processing 152 of 210 at 16:26:19 (16.10.18)
+Handling (+writing) KH output took 13821ms
+Processing 153 of 210 at 16:26:33 (16.10.18)
+Handling (+writing) KH output took 14648ms
+Processing 154 of 210 at 16:26:47 (16.10.18)
+  Restoring commit took 28566ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:03:03
+  Running metrics took 183665ms
+Handling (+writing) KH output took 212334ms
+Processing 155 of 210 at 16:30:20 (16.10.18)
+  Restoring commit took 10800ms
+    1 files produced, start merging them
+    Read file: 1 (701126 bytes)
+  Metric execution (+ merging 2 results) took 00:02:56
+  Running metrics took 176268ms
+Handling (+writing) KH output took 187109ms
+Processing 156 of 210 at 16:33:27 (16.10.18)
+  Restoring commit took 27351ms
+    1 files produced, start merging them
+    Read file: 1 (836612 bytes)
+  Metric execution (+ merging 6 results) took 00:02:48
+  Running metrics took 168011ms
+Handling (+writing) KH output took 195473ms
+Processing 157 of 210 at 16:36:42 (16.10.18)
+  Restoring commit took 33845ms
+    1 files produced, start merging them
+    Read file: 1 (734553 bytes)
+  Metric execution (+ merging 3 results) took 00:02:52
+  Running metrics took 172050ms
+Handling (+writing) KH output took 205975ms
+Processing 158 of 210 at 16:40:08 (16.10.18)
+  Restoring commit took 28847ms
+    1 files produced, start merging them
+    Read file: 1 (661125 bytes)
+  Metric execution (+ merging 1 results) took 00:03:00
+  Running metrics took 180756ms
+Handling (+writing) KH output took 209637ms
+Processing 159 of 210 at 16:43:38 (16.10.18)
+  Restoring commit took 32974ms
+    1 files produced, start merging them
+    Read file: 1 (654911 bytes)
+  Metric execution (+ merging 1 results) took 00:03:01
+  Running metrics took 181302ms
+Handling (+writing) KH output took 214312ms
+Processing 160 of 210 at 16:47:12 (16.10.18)
+  Restoring commit took 3606ms
+    1 files produced, start merging them
+    Read file: 1 (697670 bytes)
+  Metric execution (+ merging 2 results) took 00:03:05
+  Running metrics took 185943ms
+Handling (+writing) KH output took 189620ms
+Processing 161 of 210 at 16:50:22 (16.10.18)
+Handling (+writing) KH output took 13801ms
+Processing 162 of 210 at 16:50:36 (16.10.18)
+Handling (+writing) KH output took 38723ms
+Processing 163 of 210 at 16:51:14 (16.10.18)
+Handling (+writing) KH output took 16120ms
+Processing 164 of 210 at 16:51:30 (16.10.18)
+Handling (+writing) KH output took 13294ms
+Processing 165 of 210 at 16:51:44 (16.10.18)
+Handling (+writing) KH output took 12967ms
+Processing 166 of 210 at 16:51:57 (16.10.18)
+Handling (+writing) KH output took 13492ms
+Processing 167 of 210 at 16:52:10 (16.10.18)
+Handling (+writing) KH output took 15252ms
+Processing 168 of 210 at 16:52:25 (16.10.18)
+Handling (+writing) KH output took 14836ms
+Processing 169 of 210 at 16:52:40 (16.10.18)
+  Restoring commit took 29366ms
+    1 files produced, start merging them
+    Read file: 1 (686000 bytes)
+  Metric execution (+ merging 2 results) took 00:03:01
+  Running metrics took 181733ms
+Handling (+writing) KH output took 211181ms
+Processing 170 of 210 at 16:56:11 (16.10.18)
+  Restoring commit took 30033ms
+    1 files produced, start merging them
+    Read file: 1 (738115 bytes)
+  Metric execution (+ merging 3 results) took 00:02:52
+  Running metrics took 172443ms
+Handling (+writing) KH output took 202809ms
+Processing 171 of 210 at 16:59:34 (16.10.18)
+  Restoring commit took 32326ms
+    1 files produced, start merging them
+    Read file: 1 (690872 bytes)
+  Metric execution (+ merging 2 results) took 00:03:05
+  Running metrics took 185681ms
+Handling (+writing) KH output took 218097ms
+Processing 172 of 210 at 17:03:12 (16.10.18)
+  Restoring commit took 33250ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:02:58
+  Running metrics took 178926ms
+Handling (+writing) KH output took 212505ms
+Processing 173 of 210 at 17:06:45 (16.10.18)
+  Restoring commit took 586ms
     1 files produced, start merging them
     Read file: 1 (0 bytes)
   Metric execution (+ merging 0 results) took 00:03:04
-  Running metrics took 184222ms
-Handling (+writing) KH output took 211688ms
-Processing 155 of 210 at 17:49:09 (09.10.18)
-  Restoring commit took 4114ms
+  Running metrics took 184377ms
+Handling (+writing) KH output took 185320ms
+Processing 174 of 210 at 17:09:50 (16.10.18)
+  Restoring commit took 3842ms
     1 files produced, start merging them
-    Read file: 1 (667430 bytes)
-  Metric execution (+ merging 2 results) took 00:02:46
-  Running metrics took 166003ms
-Handling (+writing) KH output took 170158ms
-Processing 156 of 210 at 17:51:59 (09.10.18)
-  Restoring commit took 27942ms
-    1 files produced, start merging them
-    Read file: 1 (802916 bytes)
-  Metric execution (+ merging 6 results) took 00:03:05
-  Running metrics took 185335ms
-Handling (+writing) KH output took 213390ms
-Processing 157 of 210 at 17:55:32 (09.10.18)
-  Restoring commit took 27206ms
-    1 files produced, start merging them
-    Read file: 1 (700857 bytes)
-  Metric execution (+ merging 3 results) took 00:02:54
-  Running metrics took 174339ms
-Handling (+writing) KH output took 201618ms
-Processing 158 of 210 at 17:58:54 (09.10.18)
-  Restoring commit took 25654ms
-    1 files produced, start merging them
-    Read file: 1 (627429 bytes)
+    Read file: 1 (653152 bytes)
   Metric execution (+ merging 1 results) took 00:03:00
-  Running metrics took 180813ms
-Handling (+writing) KH output took 206497ms
-Processing 159 of 210 at 18:02:20 (09.10.18)
-  Restoring commit took 27813ms
+  Running metrics took 180169ms
+Handling (+writing) KH output took 184095ms
+Processing 175 of 210 at 17:12:54 (16.10.18)
+  Restoring commit took 27698ms
     1 files produced, start merging them
-    Read file: 1 (621215 bytes)
-  Metric execution (+ merging 1 results) took 00:03:03
-  Running metrics took 183159ms
-Handling (+writing) KH output took 210998ms
-Processing 160 of 210 at 18:05:51 (09.10.18)
-  Restoring commit took 3706ms
+    Read file: 1 (657668 bytes)
+  Metric execution (+ merging 1 results) took 00:02:56
+  Running metrics took 176010ms
+Handling (+writing) KH output took 203793ms
+Processing 176 of 210 at 17:16:18 (16.10.18)
+  Restoring commit took 3862ms
     1 files produced, start merging them
-    Read file: 1 (663974 bytes)
-  Metric execution (+ merging 2 results) took 00:02:53
-  Running metrics took 173118ms
-Handling (+writing) KH output took 176913ms
-Processing 161 of 210 at 18:08:48 (09.10.18)
-Handling (+writing) KH output took 11186ms
-Processing 162 of 210 at 18:09:00 (09.10.18)
-Handling (+writing) KH output took 38298ms
-Processing 163 of 210 at 18:09:38 (09.10.18)
-Handling (+writing) KH output took 168442ms
-Processing 164 of 210 at 18:12:26 (09.10.18)
-Handling (+writing) KH output took 11264ms
-Processing 165 of 210 at 18:12:38 (09.10.18)
-Handling (+writing) KH output took 11273ms
-Processing 166 of 210 at 18:12:49 (09.10.18)
-Handling (+writing) KH output took 147307ms
-Processing 167 of 210 at 18:15:16 (09.10.18)
-Handling (+writing) KH output took 11456ms
-Processing 168 of 210 at 18:15:28 (09.10.18)
-Handling (+writing) KH output took 10876ms
-Processing 169 of 210 at 18:15:38 (09.10.18)
-Handling (+writing) KH output took 10958ms
-Processing 170 of 210 at 18:15:49 (09.10.18)
-  Restoring commit took 25049ms
+    Read file: 1 (656299 bytes)
+  Metric execution (+ merging 1 results) took 00:03:07
+  Running metrics took 187745ms
+Handling (+writing) KH output took 191640ms
+Processing 177 of 210 at 17:19:30 (16.10.18)
+Handling (+writing) KH output took 16716ms
+Processing 178 of 210 at 17:19:46 (16.10.18)
+  Restoring commit took 33197ms
     1 files produced, start merging them
-    Read file: 1 (704419 bytes)
-  Metric execution (+ merging 3 results) took 00:02:27
-  Running metrics took 147829ms
-Handling (+writing) KH output took 173124ms
-Processing 171 of 210 at 18:18:43 (09.10.18)
-  Restoring commit took 24589ms
+    Read file: 1 (657883 bytes)
+  Metric execution (+ merging 1 results) took 00:03:14
+  Running metrics took 194522ms
+Handling (+writing) KH output took 227794ms
+Processing 179 of 210 at 17:23:34 (16.10.18)
+  Restoring commit took 31091ms
     1 files produced, start merging them
-    Read file: 1 (657176 bytes)
+    Read file: 1 (658800 bytes)
+  Metric execution (+ merging 1 results) took 00:03:21
+  Running metrics took 201605ms
+Handling (+writing) KH output took 232762ms
+Processing 180 of 210 at 17:27:27 (16.10.18)
+Handling (+writing) KH output took 36498ms
+Processing 181 of 210 at 17:28:03 (16.10.18)
+  Restoring commit took 30430ms
+    1 files produced, start merging them
+    Read file: 1 (658800 bytes)
+  Metric execution (+ merging 1 results) took 00:03:24
+  Running metrics took 204180ms
+Handling (+writing) KH output took 234671ms
+Processing 182 of 210 at 17:31:58 (16.10.18)
+  Restoring commit took 31255ms
+    1 files produced, start merging them
+    Read file: 1 (699018 bytes)
+  Metric execution (+ merging 2 results) took 00:03:05
+  Running metrics took 185135ms
+Handling (+writing) KH output took 216454ms
+Processing 183 of 210 at 17:35:35 (16.10.18)
+  Restoring commit took 3552ms
+    1 files produced, start merging them
+    Read file: 1 (653830 bytes)
+  Metric execution (+ merging 1 results) took 00:02:56
+  Running metrics took 176181ms
+Handling (+writing) KH output took 179764ms
+Processing 184 of 210 at 17:38:34 (16.10.18)
+  Restoring commit took 26658ms
+Handling (+writing) KH output took 26714ms
+Processing 185 of 210 at 17:39:01 (16.10.18)
+  Restoring commit took 27527ms
+    1 files produced, start merging them
+    Read file: 1 (662906 bytes)
+  Metric execution (+ merging 1 results) took 00:02:45
+  Running metrics took 165523ms
+Handling (+writing) KH output took 193095ms
+Processing 186 of 210 at 17:42:14 (16.10.18)
+  Restoring commit took 27266ms
+    1 files produced, start merging them
+    Read file: 1 (653830 bytes)
+  Metric execution (+ merging 1 results) took 00:02:45
+  Running metrics took 165695ms
+Handling (+writing) KH output took 192994ms
+Processing 187 of 210 at 17:45:27 (16.10.18)
+  Restoring commit took 38003ms
+    1 files produced, start merging them
+    Read file: 1 (668125 bytes)
+  Metric execution (+ merging 1 results) took 00:02:27
+  Running metrics took 147737ms
+Handling (+writing) KH output took 185822ms
+Processing 188 of 210 at 17:48:33 (16.10.18)
+  Restoring commit took 39190ms
+Handling (+writing) KH output took 39285ms
+Processing 189 of 210 at 17:49:12 (16.10.18)
+  Restoring commit took 27927ms
+    1 files produced, start merging them
+    Read file: 1 (659038 bytes)
+  Metric execution (+ merging 1 results) took 00:02:43
+  Running metrics took 163886ms
+Handling (+writing) KH output took 191858ms
+Processing 190 of 210 at 17:52:24 (16.10.18)
+  Restoring commit took 27643ms
+    1 files produced, start merging them
+    Read file: 1 (847214 bytes)
+  Metric execution (+ merging 6 results) took 00:02:37
+  Running metrics took 157555ms
+Handling (+writing) KH output took 185324ms
+Processing 191 of 210 at 17:55:29 (16.10.18)
+  Restoring commit took 3355ms
+    1 files produced, start merging them
+    Read file: 1 (691401 bytes)
   Metric execution (+ merging 2 results) took 00:02:27
-  Running metrics took 147644ms
-Handling (+writing) KH output took 172308ms
-Processing 172 of 210 at 18:21:35 (09.10.18)
-  Restoring commit took 83502ms
+  Running metrics took 147721ms
+Handling (+writing) KH output took 151143ms
+Processing 192 of 210 at 17:58:01 (16.10.18)
+Handling (+writing) KH output took 12167ms
+Processing 193 of 210 at 17:58:13 (16.10.18)
+Handling (+writing) KH output took 12063ms
+Processing 194 of 210 at 17:58:25 (16.10.18)
+Handling (+writing) KH output took 12294ms
+Processing 195 of 210 at 17:58:37 (16.10.18)
+  Restoring commit took 26339ms
+    1 files produced, start merging them
+    Read file: 1 (652784 bytes)
+  Metric execution (+ merging 1 results) took 00:02:27
+  Running metrics took 147371ms
+Handling (+writing) KH output took 173800ms
+Processing 196 of 210 at 18:01:31 (16.10.18)
+Handling (+writing) KH output took 12456ms
+Processing 197 of 210 at 18:01:43 (16.10.18)
+Handling (+writing) KH output took 11081ms
+Processing 198 of 210 at 18:01:54 (16.10.18)
+  Restoring commit took 26803ms
+    1 files produced, start merging them
+    Read file: 1 (659571 bytes)
+  Metric execution (+ merging 1 results) took 00:02:27
+  Running metrics took 147510ms
+Handling (+writing) KH output took 174367ms
+Processing 199 of 210 at 18:04:49 (16.10.18)
+  Restoring commit took 26335ms
+    1 files produced, start merging them
+    Read file: 1 (659140 bytes)
+  Metric execution (+ merging 1 results) took 00:02:27
+  Running metrics took 147322ms
+Handling (+writing) KH output took 173711ms
+Processing 200 of 210 at 18:07:43 (16.10.18)
+  Restoring commit took 26946ms
+    1 files produced, start merging them
+    Read file: 1 (658310 bytes)
+  Metric execution (+ merging 1 results) took 00:02:27
+  Running metrics took 147813ms
+Handling (+writing) KH output took 174786ms
+Processing 201 of 210 at 18:10:37 (16.10.18)
+  Restoring commit took 26281ms
+    1 files produced, start merging them
+    Read file: 1 (659323 bytes)
+  Metric execution (+ merging 1 results) took 00:02:27
+  Running metrics took 147653ms
+Handling (+writing) KH output took 174130ms
+Processing 202 of 210 at 18:13:31 (16.10.18)
+  Restoring commit took 28469ms
+    1 files produced, start merging them
+    Read file: 1 (671813 bytes)
+  Metric execution (+ merging 1 results) took 00:02:25
+  Running metrics took 145250ms
+Handling (+writing) KH output took 173830ms
+Processing 203 of 210 at 18:16:25 (16.10.18)
+Handling (+writing) KH output took 13017ms
+Processing 204 of 210 at 18:16:38 (16.10.18)
+  Restoring commit took 3733ms
     1 files produced, start merging them
     Read file: 1 (0 bytes)
-  Metric execution (+ merging 0 results) took 00:02:27
-  Running metrics took 147681ms
-Handling (+writing) KH output took 231480ms
-Processing 173 of 210 at 18:25:26 (09.10.18)
-  Restoring commit took 425ms
+  Metric execution (+ merging 0 results) took 00:02:24
+  Running metrics took 144787ms
+Handling (+writing) KH output took 148555ms
+Processing 205 of 210 at 18:19:07 (16.10.18)
+  Restoring commit took 27117ms
     1 files produced, start merging them
-    Read file: 1 (0 bytes)
-  Metric execution (+ merging 0 results) took 00:02:26
-  Running metrics took 146848ms
-Handling (+writing) KH output took 147572ms
-Processing 174 of 210 at 18:27:54 (09.10.18)
-  Restoring commit took 24406ms
+    Read file: 1 (663241 bytes)
+  Metric execution (+ merging 1 results) took 00:02:25
+  Running metrics took 145670ms
+Handling (+writing) KH output took 172851ms
+Processing 206 of 210 at 18:22:00 (16.10.18)
+  Restoring commit took 497ms
     1 files produced, start merging them
-    Read file: 1 (619456 bytes)
-  Metric execution (+ merging 1 results) took 00:02:28
-  Running metrics took 148015ms
-Handling (+writing) KH output took 172514ms
-Processing 175 of 210 at 18:30:46 (09.10.18)
-  Restoring commit took 24304ms
+    Read file: 1 (663241 bytes)
+  Metric execution (+ merging 1 results) took 00:02:25
+  Running metrics took 145570ms
+Handling (+writing) KH output took 146132ms
+Processing 207 of 210 at 18:24:26 (16.10.18)
+  Restoring commit took 26356ms
     1 files produced, start merging them
-    Read file: 1 (623988 bytes)
+    Read file: 1 (661163 bytes)
+  Metric execution (+ merging 1 results) took 00:02:24
+  Running metrics took 144823ms
+Handling (+writing) KH output took 171205ms
+Processing 208 of 210 at 18:27:17 (16.10.18)
+  Restoring commit took 29324ms
+    1 files produced, start merging them
+    Read file: 1 (661269 bytes)
   Metric execution (+ merging 1 results) took 00:02:27
-  Running metrics took 147402ms
-Handling (+writing) KH output took 171773ms
-Processing 176 of 210 at 18:33:38 (09.10.18)
-  Restoring commit took 3154ms
+  Running metrics took 147643ms
+Handling (+writing) KH output took 177175ms
+Processing 209 of 210 at 18:30:14 (16.10.18)
+  Restoring commit took 451ms
     1 files produced, start merging them
-    Read file: 1 (622619 bytes)
-  Metric execution (+ merging 1 results) took 00:02:27
-  Running metrics took 147772ms
-Handling (+writing) KH output took 150961ms
-Processing 177 of 210 at 18:36:09 (09.10.18)
-Handling (+writing) KH output took 17032ms
-Processing 178 of 210 at 18:36:26 (09.10.18)
-  Restoring commit took 24489ms
+    Read file: 1 (661269 bytes)
+  Metric execution (+ merging 1 results) took 00:02:38
+  Running metrics took 158800ms
+Handling (+writing) KH output took 159456ms
+Processing 210 of 210 at 18:32:54 (16.10.18)
+  Restoring commit took 33664ms
     1 files produced, start merging them
-    Read file: 1 (624187 bytes)
-  Metric execution (+ merging 1 results) took 00:02:27
-  Running metrics took 147742ms
-Handling (+writing) KH output took 172271ms
-Processing 179 of 210 at 18:39:18 (09.10.18)
-  Restoring commit took 24386ms
-    1 files produced, start merging them
-    Read file: 1 (625104 bytes)
-  Metric execution (+ merging 1 results) took 00:02:27
-  Running metrics took 147868ms
-Handling (+writing) KH output took 172307ms
-Processing 180 of 210 at 18:42:11 (09.10.18)
-Handling (+writing) KH output took 28857ms
-Processing 181 of 210 at 18:42:40 (09.10.18)
-  Restoring commit took 24523ms
-    1 files produced, start merging them
-    Read file: 1 (625104 bytes)
-  Metric execution (+ merging 1 results) took 00:02:27
-  Running metrics took 147703ms
-Handling (+writing) KH output took 172287ms
-Processing 182 of 210 at 18:45:32 (09.10.18)
-  Restoring commit took 24407ms
-    1 files produced, start merging them
-    Read file: 1 (665322 bytes)
-  Metric execution (+ merging 2 results) took 00:02:27
-  Running metrics took 147563ms
-Handling (+writing) KH output took 172027ms
-Processing 183 of 210 at 18:48:24 (09.10.18)
-  Restoring commit took 3133ms
-    1 files produced, start merging them
-    Read file: 1 (620134 bytes)
-  Metric execution (+ merging 1 results) took 00:02:28
-  Running metrics took 148180ms
-Handling (+writing) KH output took 151345ms
-Processing 184 of 210 at 18:50:55 (09.10.18)
-  Restoring commit took 24851ms
-Handling (+writing) KH output took 24900ms
-Processing 185 of 210 at 18:51:20 (09.10.18)
-  Restoring commit took 24700ms
-    1 files produced, start merging them
-    Read file: 1 (629210 bytes)
-  Metric execution (+ merging 1 results) took 00:02:42
-  Running metrics took 162437ms
-Handling (+writing) KH output took 187180ms
-Processing 186 of 210 at 18:54:27 (09.10.18)
-  Restoring commit took 25736ms
-    1 files produced, start merging them
-    Read file: 1 (620133 bytes)
-  Metric execution (+ merging 1 results) took 00:02:40
-  Running metrics took 160479ms
-Handling (+writing) KH output took 186246ms
-Processing 187 of 210 at 18:57:34 (09.10.18)
-  Restoring commit took 34296ms
-    1 files produced, start merging them
-    Read file: 1 (634429 bytes)
-  Metric execution (+ merging 1 results) took 00:02:18
-  Running metrics took 138497ms
-Handling (+writing) KH output took 172872ms
-Processing 188 of 210 at 19:00:27 (09.10.18)
-  Restoring commit took 33913ms
-Handling (+writing) KH output took 34000ms
-Processing 189 of 210 at 19:01:01 (09.10.18)
-  Restoring commit took 24871ms
-    1 files produced, start merging them
-    Read file: 1 (625342 bytes)
-  Metric execution (+ merging 1 results) took 00:02:40
-  Running metrics took 160938ms
-Handling (+writing) KH output took 185858ms
-Processing 190 of 210 at 19:04:06 (09.10.18)
-  Restoring commit took 26002ms
-    1 files produced, start merging them
-    Read file: 1 (813518 bytes)
-  Metric execution (+ merging 6 results) took 00:02:46
-  Running metrics took 166855ms
-Handling (+writing) KH output took 192978ms
-Processing 191 of 210 at 19:07:19 (09.10.18)
-  Restoring commit took 3379ms
-    1 files produced, start merging them
-    Read file: 1 (657705 bytes)
-  Metric execution (+ merging 2 results) took 00:02:44
-  Running metrics took 164186ms
-Handling (+writing) KH output took 167632ms
-Processing 192 of 210 at 19:10:07 (09.10.18)
-Handling (+writing) KH output took 11756ms
-Processing 193 of 210 at 19:10:19 (09.10.18)
-Handling (+writing) KH output took 11721ms
-Processing 194 of 210 at 19:10:30 (09.10.18)
-Handling (+writing) KH output took 11816ms
-Processing 195 of 210 at 19:10:42 (09.10.18)
-Handling (+writing) KH output took 11729ms
-Processing 196 of 210 at 19:10:54 (09.10.18)
-Handling (+writing) KH output took 10882ms
-Processing 197 of 210 at 19:11:05 (09.10.18)
-Handling (+writing) KH output took 10760ms
-Processing 198 of 210 at 19:11:16 (09.10.18)
-  Restoring commit took 26424ms
-    1 files produced, start merging them
-    Read file: 1 (625875 bytes)
-  Metric execution (+ merging 1 results) took 00:02:44
-  Running metrics took 164470ms
-Handling (+writing) KH output took 190949ms
-Processing 199 of 210 at 19:14:27 (09.10.18)
-  Restoring commit took 25893ms
-    1 files produced, start merging them
-    Read file: 1 (625444 bytes)
-  Metric execution (+ merging 1 results) took 00:02:46
-  Running metrics took 166396ms
-Handling (+writing) KH output took 192346ms
-Processing 200 of 210 at 19:17:39 (09.10.18)
-  Restoring commit took 26646ms
-    1 files produced, start merging them
-    Read file: 1 (624614 bytes)
-  Metric execution (+ merging 1 results) took 00:02:44
-  Running metrics took 164686ms
-Handling (+writing) KH output took 191360ms
-Processing 201 of 210 at 19:20:50 (09.10.18)
-Handling (+writing) KH output took 34224ms
-Processing 202 of 210 at 19:21:25 (09.10.18)
-  Restoring commit took 27341ms
-    1 files produced, start merging them
-    Read file: 1 (638117 bytes)
-  Metric execution (+ merging 1 results) took 00:02:52
-  Running metrics took 172974ms
-Handling (+writing) KH output took 200435ms
-Processing 203 of 210 at 19:24:45 (09.10.18)
-Handling (+writing) KH output took 14679ms
-Processing 204 of 210 at 19:25:00 (09.10.18)
-  Restoring commit took 27537ms
-    1 files produced, start merging them
-    Read file: 1 (0 bytes)
-  Metric execution (+ merging 0 results) took 00:02:53
-  Running metrics took 173565ms
-Handling (+writing) KH output took 201142ms
-Processing 205 of 210 at 19:28:21 (09.10.18)
-  Restoring commit took 27576ms
-    1 files produced, start merging them
-    Read file: 1 (629545 bytes)
-  Metric execution (+ merging 1 results) took 00:03:01
-  Running metrics took 181956ms
-Handling (+writing) KH output took 209604ms
-Processing 206 of 210 at 19:31:50 (09.10.18)
-  Restoring commit took 458ms
-    1 files produced, start merging them
-    Read file: 1 (629545 bytes)
-  Metric execution (+ merging 1 results) took 00:02:48
-  Running metrics took 168184ms
-Handling (+writing) KH output took 168705ms
-Processing 207 of 210 at 19:34:39 (09.10.18)
-  Restoring commit took 26263ms
-    1 files produced, start merging them
-    Read file: 1 (627467 bytes)
-  Metric execution (+ merging 1 results) took 00:03:11
-  Running metrics took 191797ms
-Handling (+writing) KH output took 218089ms
-Processing 208 of 210 at 19:38:17 (09.10.18)
-  Restoring commit took 31042ms
-    1 files produced, start merging them
-    Read file: 1 (627573 bytes)
-  Metric execution (+ merging 1 results) took 00:03:01
-  Running metrics took 181286ms
-Handling (+writing) KH output took 212548ms
-Processing 209 of 210 at 19:41:50 (09.10.18)
-  Restoring commit took 718ms
-    1 files produced, start merging them
-    Read file: 1 (627573 bytes)
-  Metric execution (+ merging 1 results) took 00:03:02
-  Running metrics took 182120ms
-Handling (+writing) KH output took 183069ms
-Processing 210 of 210 at 19:44:53 (09.10.18)
-  Restoring commit took 27543ms
-    1 files produced, start merging them
-    Read file: 1 (628738 bytes)
-  Metric execution (+ merging 1 results) took 00:03:28
-  Running metrics took 208147ms
-Handling (+writing) KH output took 235807ms
+    Read file: 1 (662418 bytes)
+  Metric execution (+ merging 1 results) took 00:02:38
+  Running metrics took 158301ms
+Handling (+writing) KH output took 192111ms
