@@ -1,5 +1,5 @@
 # MetricResults
-Metric Results of [MetricHaven](https://github.com/KernelHaven/MetricHaven).
+Old Metric Results of [MetricHaven](https://github.com/KernelHaven/MetricHaven), this repository contains potentially incorrect data. 
 
 ## Kbuild Test Robot Results ##
 Analysis of defects reported by the Kbuild Test Robot at [kbuild-all mailinglist](https://lists.01.org/pipermail/kbuild-all/).
